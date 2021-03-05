@@ -23,7 +23,7 @@
 
 ## Integrated Updates (Only write the latest build):   
 Internet Explorer 11 with English Hypenation & Spelling   
-KB4598279, KB4578952, KB4575903, KB3125574, KB4592510,   
+KB4601347, KB4578952, KB4575903, KB3125574, KB4592510,   
 KB4490628, KB4474419, KB4019990, KB3184143, KB3179573,   
 KB3161949, KB3161102, KB3159398, KB3156016, KB3138612,   
 KB3102429, KB3087873, KB3064209, KB3059317, KB3046269,   
@@ -35,6 +35,10 @@ KB2685811, KB2670838, KB2667402, KB2603229, KB2592687,
 KB2574819, KB2547666, KB2545698, KB2533552, KB917607   
 
 ## Change Log:
+- 2021-02   
+Added KB4601347 with disabling telemetry and processor checking (replaces KB4598279)   
+Certificate update similar to KB931125 and KB2917500 for February 2021   
+
 - 2021-01   
 Added KB4598279 with disabling telemetry and processor checking (replaces KB4592471)   
 Certificate update similar to KB931125 and KB2917500 for January 2021   
@@ -49,6 +53,14 @@ Added Microsoft Visual C++ Redistributables - 2019: 14.28.29617.0 (replaces 14.2
 Initial public release   
 
 ## Checksums:
+- 2021-02
+```
+   File: Win7.Professional.x64.gloeyisk.210216.iso
+    MD5: 06FAFAF1CC30A03F314310B28F18A55C
+  SHA-1: 433AEA01D272421644EF536AFFBDA481BF86E4AB
+SHA-256: 70CABDAA05D8D97EEADDE66A297FCDE5E68538060907A51829040C1F9644D32C
+```
+
 - 2021-01
 ```
    File: Win7.Professional.x64.gloeyisk.210116.iso
@@ -66,7 +78,6 @@ SHA-256: 2B0489E50A5500BC81DD9ECB3CAD4117FA0F959181874D3F7B13BAFBF8223F48
 ```
 
 - 2020-11
-
 ```
    File: Win7.Professional.x64.gloeyisk.201113.iso
     MD5: 427F0A0D78CE64FED5C21A1CEAE9D11C
@@ -81,4 +92,4 @@ SHA-256: 1F131D388C49D90D3BC5D55496BB9F805B5F11E9DAEA2D161CB4B889AA0079D7
 - .NET, Microsoft Windows, Visual Basic and Visual C++ are registered trademarks of Microsoft Corporation
 
 ## Extras:
-- Donation: [PayPal](https://paypal.me/gloeyisk) | [LiberaPay](https://liberapay.com/gloeyisk)
+- Donation: [PayPal](https://paypal.me/gloeyisk) - [LiberaPay](https://liberapay.com/gloeyisk)
