@@ -19,11 +19,11 @@
 ## Integrated (Add-ons):
 - DirectX End-User Runtimes (June 2010).
 - Microsoft .NET Framework 4.8.
-- Microsoft Visual C++ Redistributables.
+- Microsoft Visual C++ Redistributable.
 
 ## Integrated Updates (Only write the latest build):   
 Internet Explorer 11 with English Hypenation & Spelling   
-KB4601347, KB4578952, KB4575903, KB3125574, KB4592510,   
+KB5000841, KB4578952, KB4575903, KB3125574, KB4592510,   
 KB4490628, KB4474419, KB4019990, KB3184143, KB3179573,   
 KB3161949, KB3161102, KB3159398, KB3156016, KB3138612,   
 KB3102429, KB3087873, KB3064209, KB3059317, KB3046269,   
@@ -35,6 +35,13 @@ KB2685811, KB2670838, KB2667402, KB2603229, KB2592687,
 KB2574819, KB2547666, KB2545698, KB2533552, KB917607   
 
 ## Change Log:
+- 2021-03   
+Added KB5000841 with disabling telemetry and processor checking (replaces KB4601347)   
+Certificate update similar to KB931125 and KB2917500 for March 2021   
+.NET 4.8 Rollup Update KB4578977-v2/KB4600944-v2 (4.8.4331.3)   
+Visual C++ 2019 Redistributable - 14.29.29917.0   
+Updated boot.wim from Windows 10 10.0.19042.804 Version 20H2 (February 2021)   
+
 - 2021-02   
 Added KB4601347 with disabling telemetry and processor checking (replaces KB4598279)   
 Certificate update similar to KB931125 and KB2917500 for February 2021   
@@ -42,17 +49,25 @@ Certificate update similar to KB931125 and KB2917500 for February 2021
 - 2021-01   
 Added KB4598279 with disabling telemetry and processor checking (replaces KB4592471)   
 Certificate update similar to KB931125 and KB2917500 for January 2021   
-Added Microsoft Visual C++ Redistributables - 2019: 14.28.29805.2 (replaces 14.28.29617.0)   
+Visual C++ 2019 Redistributable: 14.28.29805.2   
 
 - 2020-12   
 Added KB4592471 with disabling telemetry and processor checking (replaces KB4586827)   
 Added KB4592510 (replaces KB4580970)   
-Added Microsoft Visual C++ Redistributables - 2019: 14.28.29617.0 (replaces 14.28.29515.1)   
+Visual C++ 2019 Redistributable: 14.28.29617.0   
 
 - 2020-11   
 Initial public release   
 
 ## Checksums:
+- 2021-03
+```
+   File: Win7.Professional.x64.gloeyisk.210312.iso
+    MD5: 84A5E80775CBE569554D15119B126EAD
+  SHA-1: 4B9F79A8A6B3E531BE4A6CF56D20E7F44FDF7B07
+SHA-256: F97D6AB371EA4DFB1E68C05614E401B3CEDFD6CA79C5721EA437D4D3A9C6F8D8
+```
+
 - 2021-02
 ```
    File: Win7.Professional.x64.gloeyisk.210216.iso
