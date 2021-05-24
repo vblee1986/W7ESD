@@ -2,7 +2,7 @@
 
 ## Overview:
 - MSDN Windows 7 Professional (OS target).
-- MSDN Windows 10 20H2 (boot.wim).
+- MSDN Windows 10 21H1 (boot.wim).
 
 ## ISO capabilities:
 - 64-bit & English (United States) language only.
@@ -23,7 +23,7 @@
 
 ## Integrated Updates (Only write the latest build):   
 Internet Explorer 11 with English Hypenation & Spelling   
-KB5000841, KB4578952, KB4575903, KB3125574, KB4592510,   
+KB5001335, KB4578952, KB4575903, KB3125574, KB4592510,   
 KB4490628, KB4474419, KB4019990, KB3184143, KB3179573,   
 KB3161949, KB3161102, KB3159398, KB3156016, KB3138612,   
 KB3102429, KB3087873, KB3064209, KB3059317, KB3046269,   
@@ -35,6 +35,11 @@ KB2685811, KB2670838, KB2667402, KB2603229, KB2592687,
 KB2574819, KB2547666, KB2545698, KB2533552, KB917607   
 
 ## Change Log:
+- 2021-04   
+Added KB5001335 with disabling telemetry and processor checking (replaces KB5000841)   
+Certificate update similar to KB931125 and KB2917500 for April 2021   
+Visual C++ 2019 Redistributable - 14.29.30031   
+
 - 2021-03   
 Added KB5000841 with disabling telemetry and processor checking (replaces KB4601347)   
 Certificate update similar to KB931125 and KB2917500 for March 2021   
@@ -60,6 +65,14 @@ Visual C++ 2019 Redistributable: 14.28.29617.0
 Initial public release   
 
 ## Checksums:
+- 2021-04
+```
+   File: Win7.Professional.x64.gloeyisk.210422.iso
+    MD5: EB15CD15001DFDA8FB26CC52CF708B08
+  SHA-1: 4079D30733CDCD2AFF04C995C073451CE984A0A5
+SHA-256: ACD6AA40FA3F8E8F35DA0A58ACB71DD9EEBC5607B5255E6BA56D30648BE7BE6D
+```
+
 - 2021-03
 ```
    File: Win7.Professional.x64.gloeyisk.210312.iso
