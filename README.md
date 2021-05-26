@@ -23,7 +23,7 @@
 
 ## Integrated Updates (Only write the latest build):   
 Internet Explorer 11 with English Hypenation & Spelling   
-KB5001335, KB4578952, KB4575903, KB3125574, KB4592510,   
+KB5003233, KB4578952, KB4575903, KB3125574, KB4592510,   
 KB4490628, KB4474419, KB4019990, KB3184143, KB3179573,   
 KB3161949, KB3161102, KB3159398, KB3156016, KB3138612,   
 KB3102429, KB3087873, KB3064209, KB3059317, KB3046269,   
@@ -35,6 +35,12 @@ KB2685811, KB2670838, KB2667402, KB2603229, KB2592687,
 KB2574819, KB2547666, KB2545698, KB2533552, KB917607   
 
 ## Change Log:
+- 2021-05   
+Added KB5003233 with disabling telemetry and processor checking (replaces KB5001335)   
+Certificate update similar to KB931125 and KB2917500 for May 2021   
+.NET 4.8 Rollup Update KB5001843 refresh (4.8.4351.2)   
+Visual C++ 2019 Redistributable - 14.29.30031   
+
 - 2021-04   
 Added KB5001335 with disabling telemetry and processor checking (replaces KB5000841)   
 Certificate update similar to KB931125 and KB2917500 for April 2021   
@@ -65,6 +71,14 @@ Visual C++ 2019 Redistributable: 14.28.29617.0
 Initial public release   
 
 ## Checksums:
+- 2021-05
+```
+   File: Win7.Professional.x64.gloeyisk.210523.iso
+    MD5: 903258105070C53EFE8D1C1BA39D142F
+  SHA-1: 1701B7195661D627988B893C8133278362A88035
+SHA-256: F3660C29E81CA53D7688A6BD64D1795E94E5218B9E9086DA5D64E5C3B14033BC
+```
+
 - 2021-04
 ```
    File: Win7.Professional.x64.gloeyisk.210422.iso
