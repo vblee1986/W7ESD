@@ -1,8 +1,8 @@
 # ESD Windows 7 Professional
 
 ## Overview:
-- MSDN Windows 7 Professional (OS target).
-- MSDN Windows 10 21H1 (boot.wim).
+- MSDN Windows 7 Professional.
+- MSDN Windows 10 Professional (21H1).
 
 ## ISO capabilities:
 - 64-bit & English (United States) language only.
@@ -21,9 +21,9 @@
 - Microsoft .NET Framework 4.8.
 - Microsoft Visual C++ Redistributable.
 
-## Integrated Updates (Only write the latest build):   
+## Integrated Updates:   
 Internet Explorer 11 with English Hypenation & Spelling   
-KB5003233, KB4578952, KB4575903, KB3125574, KB4592510,   
+KB5003667, KB4578952, KB4575903, KB3125574, KB4592510,   
 KB4490628, KB4474419, KB4019990, KB3184143, KB3179573,   
 KB3161949, KB3161102, KB3159398, KB3156016, KB3138612,   
 KB3102429, KB3087873, KB3064209, KB3059317, KB3046269,   
@@ -35,6 +35,12 @@ KB2685811, KB2670838, KB2667402, KB2603229, KB2592687,
 KB2574819, KB2547666, KB2545698, KB2533552, KB917607   
 
 ## Change Log:
+- 2021-06   
+Added KB5003667 with disabling telemetry and processor checking (replaces KB5003233)   
+Certificate update similar to KB931125 and KB2917500 for June 2021   
+.NET 4.8 Rollup Update KB5003543 (4.8.4380.1) + KB5003318 / KB4600944-v3   
+Visual C++ 2019 Redistributable - 14.29.30130   
+
 - 2021-05   
 Added KB5003233 with disabling telemetry and processor checking (replaces KB5001335)   
 Certificate update similar to KB931125 and KB2917500 for May 2021   
@@ -71,6 +77,14 @@ Visual C++ 2019 Redistributable: 14.28.29617.0
 Initial public release   
 
 ## Checksums:
+- 2021-06
+```
+   File: Win7.Professional.x64.gloeyisk.210705.iso
+    MD5: BDDB1447B210009F44EC4F57EE4A9521
+  SHA-1: 62CD269C2151B562A59984C566E48CF4A09D3F36
+SHA-256: DB1536A6FC051783425C9A593616DCFB2409FE1EE0BB6410252711023B29058F
+```
+
 - 2021-05
 ```
    File: Win7.Professional.x64.gloeyisk.210523.iso
@@ -128,10 +142,11 @@ SHA-256: 1F131D388C49D90D3BC5D55496BB9F805B5F11E9DAEA2D161CB4B889AA0079D7
 ```
 
 ## Credits:
-- Enthousiast / Windows 7 Tool Creation
-- abbodi1406 / BypassESU - WA add-ons
+- Enthousiast / Windows 7 Tools
+- abbodi1406 / BypassESU - WA Add-ons
 - simplix / UpdatePack7R2
-- .NET, Microsoft Windows, Visual Basic and Visual C++ are registered trademarks of Microsoft Corporation
+- Microsoft .NET Framework is an intellectual property of Microsoft Corporation
+- Visual Basic and Visual C++ are registered trademarks of Microsoft Corporation
 
 ## Extras:
 - Donation: [PayPal](https://paypal.me/gloeyisk) - [LiberaPay](https://liberapay.com/gloeyisk)
