@@ -4,6 +4,12 @@
 
 <details><summary>2021</summary>
 
+2021-08
+```
+https://gldp.gloeyisk.workers.dev/0:/os/Win7.Professional.x64.gloeyisk.210815.iso
+https://www.mediafire.com/file/okhpskt95tqxa5o/Win7.Professional.x64.gloeyisk.210815.iso/file
+```
+
 2021-07
 ```
 https://gldp.gloeyisk.workers.dev/0:/os/Win7.Professional.x64.gloeyisk.210728.iso
